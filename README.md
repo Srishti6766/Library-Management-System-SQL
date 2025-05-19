@@ -3,7 +3,7 @@
 A structured SQL-based system to manage library operations including books, users, borrowing records, and fine calculations. Designed to streamline traditional library workflows with optimized query management.
 
 ## Project Duration
-**Sep 2024 – Nov 2024**
+**Mar 2025 – Apr 2025**
 
 ## Tech Stack **:**
 - SQL
